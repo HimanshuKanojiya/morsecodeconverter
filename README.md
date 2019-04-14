@@ -1,4 +1,4 @@
-# morsecodeconverter
+# Morse Code Converter
 This program is to convert and decode the plain text/morse code.
 
 ## What is Morse Code?
