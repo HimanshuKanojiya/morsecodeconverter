@@ -2,6 +2,7 @@
 This program is to convert and decode the plain text/morse code.
 
 What is Morse Code?
+
 Morse code is a character encoding scheme used in telecommunication that encodes text characters as standardized sequences of two different signal durations called dots and dashes or dits and dahs.
 You can read More about it at https://en.wikipedia.org/wiki/Morse_code
 
